@@ -1,0 +1,14 @@
+C:\Users\david\AspDotnetProjects\MagicDatabaseApi\MagicDatabaseApi\bin\Release\netcoreapp2.2\MagicDatabaseApi.deps.json
+C:\Users\david\AspDotnetProjects\MagicDatabaseApi\MagicDatabaseApi\bin\Release\netcoreapp2.2\MagicDatabaseApi.runtimeconfig.json
+C:\Users\david\AspDotnetProjects\MagicDatabaseApi\MagicDatabaseApi\bin\Release\netcoreapp2.2\MagicDatabaseApi.runtimeconfig.dev.json
+C:\Users\david\AspDotnetProjects\MagicDatabaseApi\MagicDatabaseApi\bin\Release\netcoreapp2.2\MagicDatabaseApi.dll
+C:\Users\david\AspDotnetProjects\MagicDatabaseApi\MagicDatabaseApi\bin\Release\netcoreapp2.2\MagicDatabaseApi.pdb
+C:\Users\david\AspDotnetProjects\MagicDatabaseApi\MagicDatabaseApi\obj\Release\netcoreapp2.2\MagicDatabaseApi.csprojAssemblyReference.cache
+C:\Users\david\AspDotnetProjects\MagicDatabaseApi\MagicDatabaseApi\obj\Release\netcoreapp2.2\MagicDatabaseApi.csproj.CoreCompileInputs.cache
+C:\Users\david\AspDotnetProjects\MagicDatabaseApi\MagicDatabaseApi\obj\Release\netcoreapp2.2\MagicDatabaseApi.RazorAssemblyInfo.cache
+C:\Users\david\AspDotnetProjects\MagicDatabaseApi\MagicDatabaseApi\obj\Release\netcoreapp2.2\MagicDatabaseApi.RazorAssemblyInfo.cs
+C:\Users\david\AspDotnetProjects\MagicDatabaseApi\MagicDatabaseApi\obj\Release\netcoreapp2.2\MagicDatabaseApi.AssemblyInfoInputs.cache
+C:\Users\david\AspDotnetProjects\MagicDatabaseApi\MagicDatabaseApi\obj\Release\netcoreapp2.2\MagicDatabaseApi.AssemblyInfo.cs
+C:\Users\david\AspDotnetProjects\MagicDatabaseApi\MagicDatabaseApi\obj\Release\netcoreapp2.2\MagicDatabaseApi.RazorTargetAssemblyInfo.cache
+C:\Users\david\AspDotnetProjects\MagicDatabaseApi\MagicDatabaseApi\obj\Release\netcoreapp2.2\MagicDatabaseApi.dll
+C:\Users\david\AspDotnetProjects\MagicDatabaseApi\MagicDatabaseApi\obj\Release\netcoreapp2.2\MagicDatabaseApi.pdb
