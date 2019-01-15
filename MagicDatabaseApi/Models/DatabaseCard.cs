@@ -11,38 +11,44 @@ namespace MagicDatabaseApi.Models
 {
     public class DatabaseCard
     {
-        [BsonElement("Type")]
-        public string Type { get; set; }
+        [BsonElement("name")]
+        public string name { get; set; }
 
-        [BsonElement("Name")]
-        public string Name { get; set; }
+        [BsonElement("cmc")]
+        public int cmc { get; set; }
 
-        [BsonElement("CMC")]
-        public int CMC { get; set; }
+        [BsonElement("manaCost")]
+        public string manaCost { get; set; }
 
-        [BsonElement("Cost")]
-        public string Cost { get; set; }
+        [BsonElement("colorIdentity")]
+        public List<String> colorIdentity { get; set; }
 
-        [BsonElement("Types")]
-        public List<string> Types { get; set; }
+        [BsonElement("types")]
+        public List<string> types { get; set; }
 
-        [BsonElement("Subtypes")]
-        public List<string> Subtypes { get; set; }
+        [BsonElement("subtypes")]
+        public List<string> subtypes { get; set; }
 
-        [BsonElement("Rarity")]
-        public String Rarity { get; set; }
+        [BsonElement("rarity")]
+        public String rarity { get; set; }
 
-        [BsonElement("Loyalty")]
-        public int Loyalty { get; set; }
+        [BsonElement("set")]
+        public String set { get; set; }
 
-        [BsonElement("Power")]
-        public int Power { get; set; }
+        [BsonElement("setName")]
+        public String setName { get; set; }
 
-        [BsonElement("Toughness")]
-        public int Toughness { get; set; }
+        [BsonElement("loyalty")]
+        public int loyalty { get; set; }
 
-        [BsonElement("Text")]
-        public String Text { get; set; }
+        [BsonElement("power")]
+        public int power { get; set; }
+
+        [BsonElement("toughness")]
+        public int toughness { get; set; }
+
+        [BsonElement("text")]
+        public String text { get; set; }
 
         /*
         public DatabaseCard(Card data)
